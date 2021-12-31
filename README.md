@@ -1,2 +1,2 @@
-# saloon_management
-Saloon management fronend
+# salon_management
+Salon management frontend
